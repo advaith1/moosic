@@ -1,3 +1,7 @@
+# ⚠️ NOTICE: A rogue developer made Moosic leave all servers. Please [add it back to your server](https://moosic.advaith.fun/invite). The developer's access has been removed, and he has been banned. We apologize for the inconvenience.
+Moosic had just reached over 1k servers.
+
+---
 Looking for a **free** Discord music bot that's **just** a music bot, that works as soon as you add it; no **paying**, **setup**, or **complexity**? [Add Moosic to your server!](/invite) Moosic is a free music bot for Discord that's just a music bot, with no setup or complicated features!
 
 <a class="discord-widget" href="https://discord.gg/WxPH3Fc"><amp-img src="https://discordapp.com/api/guilds/398998849026261003/embed.png?style=banner3" alt="Discord" layout="fixed" height="140" width="320">[Join the Discord Server]</amp-img></a>
