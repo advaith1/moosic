@@ -1,4 +1,4 @@
-# ⚠️ NOTICE: A rogue developer made Moosic leave all servers. Please [add it back to your server](https://moosic.advaith.fun/invite). The developer's access has been removed, and he has been banned. We apologize for the inconvenience.
+### ⚠️ NOTICE: A rogue developer made Moosic leave all servers. Please [add it back to your server](https://moosic.advaith.fun/invite). The developer's access has been removed, and he has been banned. We apologize for the inconvenience.
 Moosic had just reached over 1k servers.
 
 ---
@@ -29,4 +29,4 @@ For a more multipurpose bot, check out [AdvaithBot](https://advaithbot.com).
 Moosic was created by [advaith](https://advaith.fun).
 
 # Chat
-<amp-iframe src="https://titanembeds.com/embed/398998849026261003?theme=DiscordDark&defaultchannel=399069831820869632&css=217" height="600" frameborder="0" sandbox="allow-scripts allow-same-origin"><a href="https://titanembeds.com/embed/398998849026261003?theme=DiscordDark&defaultchannel=399069831820869632&css=217">[Discord Embed]</a></amp-iframe>
+<amp-iframe src="https://cl2.widgetbot.io/channels/461426831103623168/461426831103623174/" height="600" frameborder="0" sandbox="allow-scripts allow-same-origin"><a href="https://cl2.widgetbot.io/channels/461426831103623168/461426831103623174/">[Discord Embed]</a></amp-iframe>
