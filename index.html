@@ -25,10 +25,10 @@
  body {
    background: #181818
  }
- .dbl {
+ .botlist {
    text-align: center;
-   margin-bottom: 10px;
-   height: 20px 
+   margin-top: 20px;
+   height: 150px 
  }
  .image-title {
    border-radius: 0 !important
@@ -42,8 +42,6 @@
     shard: 'https://cl2.widgetbot.io'
   })
 
-  crate.notify({ content: "⚠️ NOTICE: A rogue developer made Moosic leave all servers. Please [add it back to your server](https://moosic.advaith.fun/invite). The developer's access has been removed, and he has been banned. We apologize for the inconvenience.", avatar: 'https://cdn.discordapp.com/avatars/190916650143318016/a_8d2426565d208088765d6a12f067de3d.gif?size=256'})
-  crate.notify({ content: 'Moosic had just reached over 1k servers.', avatar: 'https://cdn.discordapp.com/avatars/190916650143318016/a_8d2426565d208088765d6a12f067de3d.gif?size=256'})
   crate.notify({ content: 'Click here to chat!', avatar: 'https://cdn.discordapp.com/avatars/190916650143318016/a_8d2426565d208088765d6a12f067de3d.gif?size=256'})
 </script>
 </head>
@@ -55,11 +53,6 @@
           <h1 class="title">Moosic</h1>
           <span class="undertitle">A simple Discord music bot</span>
         </section>
-        <div class="undertitle dbl">
-        <a href="https://discordbots.org/bot/444633099712856064"><img src="https://discordbots.org/api/widget/status/444633099712856064.svg" alt="Moosic"/></a>
-        <a href="https://discordbots.org/bot/444633099712856064"><img src="https://discordbots.org/api/widget/servers/444633099712856064.svg" alt="Moosic"/></a>
-        <a href="https://discordbots.org/bot/444633099712856064/vote"><img src="https://discordbots.org/api/widget/upvotes/444633099712856064.svg" alt="Moosic"/></a>
-        </div>
         <div class="buttons">
           <a href="/info" class="btn animation emerald" target="_blank">Info</a>
           <a href="https://discord.gg/WxPH3Fc" class="btn animation peter-river" target="_blank">Join Server</a>
@@ -67,6 +60,10 @@
           <a href="/2" class="btn animation orange" target="_blank">Add Moosic²</a>
           <a href="https://discordbots.org/bot/444633099712856064/vote" class="btn animation primary" target="_blank">Upvote</a>
         </div>
+        <div class="undertitle botlist">
+          <a href="https://discordbots.org/bot/444633099712856064"><img id="dbl" src="https://discordbots.org/api/widget/444633099712856064.svg" alt="Discord Bot List"/></a>
+          <a href="https://botsfordiscord.com/bot/444633099712856064"><img src="https://botsfordiscord.com/api/v1/bots/444633099712856064/embed?theme=dark" alt="Bots For Discord"/></a>
+          </div>
       </div>
     </section>
 </body>
