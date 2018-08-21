@@ -26,4 +26,4 @@ For a more multipurpose bot, check out [AdvaithBot](https://advaithbot.com).
 Moosic was created by [advaith](https://advaith.fun).
 
 # Chat
-<amp-iframe class="rounded" src="https://cl2.widgetbot.io/channels/461426831103623168/461426831103623174/" height="600" frameborder="0" sandbox="allow-scripts allow-same-origin"><noscript><iframe class="rounded" src="https://cl2.widgetbot.io/channels/461426831103623168/461426831103623174/" height="600" frameborder="0" sandbox="allow-scripts allow-same-origin"></noscript></amp-iframe>
+<amp-iframe class="rounded" src="https://cl2.widgetbot.io/channels/461426831103623168/461426831103623174/" height="600" frameborder="0" sandbox="allow-scripts allow-same-origin"><noscript><iframe class="rounded" src="https://cl2.widgetbot.io/channels/461426831103623168/461426831103623174/" height="600" frameborder="0" sandbox="allow-scripts allow-same-origin"></iframe></noscript></amp-iframe>
