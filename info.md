@@ -1,3 +1,7 @@
+---
+canonical_url: https://moosic.advaith.fun/info
+---
+
 Looking for a **free** Discord music bot that's **just** a music bot, that works as soon as you add it; no **paying**, **setup**, or **complexity**? [Add Moosic to your server!](/invite) Moosic is a free music bot for Discord that's just a music bot, with no setup or complicated features!
 
 <a href="https://discord.gg/WxPH3Fc" target="_blank" rel="noopener"><amp-img class="rounded" src="https://discordapp.com/api/guilds/461426831103623168/embed.png?style=banner3" alt="Discord" layout="fixed" height="140" width="320"><noscript><img class="rounded" src="https://discordapp.com/api/guilds/461426831103623168/embed.png?style=banner3" alt="Discord" height="140" width="320"></noscript></amp-img></a> <a href="https://discord.gg/WxPH3Fc" target="_blank" rel="noopener"><amp-img class="rounded" src="https://discordapp.com/api/guilds/398998849026261003/embed.png?style=banner3" alt="Discord" layout="fixed" height="140" width="320"><noscript><img class="rounded" src="https://discordapp.com/api/guilds/398998849026261003/embed.png?style=banner3" alt="Discord"  height="140" width="320"></noscript></amp-img></a>
