@@ -30,4 +30,4 @@ For a more multipurpose bot, check out [AdvaithBot](https://advaithbot.com).
 Moosic was created by [advaith](https://advaith.fun).
 
 # Chat
-<amp-iframe class="rounded" src="https://beta.widgetbot.io/channels/461426831103623168/461426831103623174/" height="600" frameborder="0" sandbox="allow-scripts allow-same-origin"><noscript><iframe class="rounded" src="https://beta.widgetbot.io/channels/461426831103623168/461426831103623174/" height="600" frameborder="0" sandbox="allow-scripts allow-same-origin">Discord</iframe></noscript></amp-iframe>
+<amp-iframe class="rounded" src="https://vip1.widgetbot.io/channels/461426831103623168/461426831103623174/" height="600" frameborder="0" sandbox="allow-scripts allow-same-origin"><noscript><iframe class="rounded" src="https://vip1.widgetbot.io/channels/461426831103623168/461426831103623174/" height="600" frameborder="0" sandbox="allow-scripts allow-same-origin">Discord</iframe></noscript></amp-iframe>
