@@ -2377,6 +2377,11 @@ input, select, textarea {
 			text-transform: none !important;
 		}
 
+		.b-icon:before {
+			font-family: "Font Awesome 5 Brands";
+			font-weight: normal;
+		}
+
 		.icon > .label {
 			display: none;
 		}
