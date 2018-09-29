@@ -1,70 +1,184 @@
-<!DOCTYPE html>
-<html lang="en-US">
-<head>
-<meta charset="utf-8">
+<!DOCTYPE HTML>
+<!--
+	Solid State by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Moosic</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+		<link rel="shortcut icon" type="image/png" href="https://cdn.discordapp.com/avatars/444633099712856064/4aa91b67acc0eff7b422b42a4d1d3e48.png?size=1024">
+		
+		<script src="https://cdn.jsdelivr.net/npm/@widgetbot/crate@3" async>
+			new Crate({
+			  server: '461426831103623168',
+			  channel: '461426831103623174',
+			  shard: 'https://cl2.widgetbot.io'
+			})
+		</script>
+		<script src="https://july23.battleforthenet.com/widget.js" async></script>
+	</head>
+	<body class="is-preload">
 
-<title>Moosic | A simple Discord music bot</title>
-<meta property="og:title" content="Moosic" />
-<meta property="og:locale" content="en_US" />
-<meta name="description" content="A simple Discord music bot" />
-<meta property="og:description" content="A simple Discord music bot" />
-<link rel="canonical" href="https://moosic.advaith.fun" />
-<meta property="og:url" content="https://moosic.advaith.fun" />
-<meta property="og:image" content="https://cdn.discordapp.com/avatars/444633099712856064/4aa91b67acc0eff7b422b42a4d1d3e48.png?size=1024" />
-<meta name="theme-color" content="#00AFD5">
-<meta name="twitter:card" content="summary" />
-<meta name="twitter:creator" content="@advaithj1" />
+		<!-- Page Wrapper -->
+			<div id="page-wrapper">
 
-<script type="application/ld+json">
-{"name":"Moosic","description":"A simple Discord music bot","@type":"WebSite","url":"https://moosic.advaith.fun","headline":"Moosic","@context":"http://schema.org"}</script>
-<meta name="viewport" content="width=device-width, minimum-scale=1, initial-scale=1">
-<link rel="shortcut icon" type="image/png" href="https://cdn.discordapp.com/avatars/444633099712856064/4aa91b67acc0eff7b422b42a4d1d3e48.png?size=1024">
+				<!-- Header -->
+					<header id="header" class="alt">
+						<h1><a href="index.html">Moosic</a></h1>
+						<nav>
+							<a href="#menu">Menu</a>
+						</nav>
+					</header>
 
-<link rel="stylesheet" type="text/css" href="https://modesta.alexflipnote.xyz/css/modesta.min.css">
-<style>
- body {
-   background: #181818
- }
- .botlist {
-   text-align: center;
-   margin-top: 20px;
-   height: 150px 
- }
- .image-title {
-   border-radius: 0 !important
- }
-</style>
-    
- <script src="https://cdn.jsdelivr.net/npm/@widgetbot/crate@3" async>
-  const crate = new Crate({
-    server: '461426831103623168',
-    channel: '461426831103623174',
-    shard: 'https://vip1.widgetbot.io'
-  })
+				<!-- Menu -->
+					<nav id="menu">
+						<div class="inner">
+							<h2>Menu</h2>
+							<ul class="links">
+								<li><a href="index.html">Home</a></li>
+								<li><a href="generic.html">Generic</a></li>
+								<li><a href="elements.html">Elements</a></li>
+								<li><a href="#">Log In</a></li>
+								<li><a href="#">Sign Up</a></li>
+							</ul>
+							<a href="#" class="close">Close</a>
+						</div>
+					</nav>
 
-  crate.notify({ content: 'Click here to chat!', avatar: 'https://cdn.discordapp.com/avatars/190916650143318016/a_8d2426565d208088765d6a12f067de3d.gif?size=128'})
-</script>
-</head>
-<body>
-    <section class="fullscreen">
-      <div class="center-object">
-        <section class="me">
-          <img src="https://cdn.discordapp.com/attachments/252296452708106240/444322794612981790/moosic.png" class="image-title" alt="Moosic">
-          <h1 class="title">Moosic</h1>
-          <span class="undertitle">A simple Discord music bot</span>
-        </section>
-        <div class="buttons">
-          <a href="/info" class="btn animation emerald" target="_blank" rel="noopener">Info</a>
-          <a href="http://discord.gg/tf85Xhc" class="btn animation peter-river" target="_blank" rel="noopener">Join Server</a>
-          <a href="/invite" class="btn animation sun-flower" target="_blank" rel="noopener">Add Moosic</a>
-          <a href="/2" class="btn animation orange" target="_blank" rel="noopener">Add Moosic²</a>
-        </div>
-        <div class="undertitle botlist">
-          <a href="https://discordbots.org/bot/444633099712856064/vote"><img src="https://discordbots.org/api/widget/444633099712856064.svg" alt="Discord Bot List"></a>
-          <a href="https://botsfordiscord.com/bot/444633099712856064"><img src="https://botsfordiscord.com/api/v1/bots/444633099712856064/embed?theme=dark" alt="Bots For Discord"></a>
-          <a href="https://discordbotlist.com/bots/444633099712856064/upvote"><img height="150" src="https://discordbotlist.com/bots/444633099712856064/widget" alt="Discord Bot List.com"></a>
-          </div>
-      </div>
-    </section>
-</body>
+				<!-- Banner -->
+					<section id="banner">
+						<div class="inner">
+							<div class="logo"><span class="icon fa-music"></span></div>
+							<h2>Moosic</h2>
+							<p>Listen to music with your friends in Discord!</p>
+						</div>
+					</section>
+
+				<!-- Wrapper -->
+					<section id="wrapper">
+
+						<!-- Intro -->
+							<section id="intro" class="wrapper spotlight style1">
+								<div class="inner">
+									<img style="border-radius: 0" class="image" src="https://cdn.discordapp.com/attachments/252296452708106240/444322794612981790/moosic.png" alt="">
+									<div class="content">
+										<h2 class="major">A simple Discord music bot</h2>
+										<p>Listen to music with your friends without leaving Discord, for free!</p>
+										<a href="invite" target="_blank" rel="noopener" class="special">Add Moosic to your server</a>
+									</div>
+								</div>
+							</section>
+
+						<!-- Simple -->
+							<section id="simple" class="wrapper alt spotlight style2">
+								<div class="inner">
+									<div class="content">
+										<h2 class="major">Easy to use</h2>
+										<p>Moosic was designed to be super easy to use: no setup is required! Simply add the bot and use the play command to play music.</p>
+										<!--<a href="#" class="special">Learn more</a>-->
+									</div>
+								</div>
+							</section>
+
+						<!-- Playing -->
+						<section id="playing" class="wrapper spotlight style3">
+							<div class="inner">
+								<img style="border-radius: 0" class="image" src="https://canary.discordapp.com/assets/9385f5b0c3bd2064e47d8ce5964aad5a.svg" alt="">
+								<div class="content">
+									<h2 class="major" style="text-align: left">Playing Music</h2>
+									<p style="text-align: left">Moosic can play from YouTube, or you can provide a direct video/audio file link.</p>
+									<p style="text-align: left; margin-bottom: 1em">Play types:</p>
+									<ul style="text-align: left">
+										<li>YouTube Search</li>
+										<li>YouTube URL</li>
+										<li>File URL</li>
+									</ul>
+									<p style="text-align: left">Moosic will automatically detect the type you want to use!</p>
+								</div>
+							</div>
+						</section>
+
+						<!-- Cmds -->
+						<section id="cmds" class="wrapper alt spotlight style4">
+							<div class="inner">
+								<div class="content">
+									<h2 class="major">Commands</h2>
+									<ul></ul>
+										<li>▶️ <code class="highlighter-rouge">&amp;play</code>: Plays music, you can use a file URL, YouTube URL, or song name/search query.</li>
+										<li>⏺️ <code class="highlighter-rouge">&amp;stream</code>: Stream music from a YT livestream, you can use a YouTube URL or stream name/search query.</li>
+										<li>⏸ <code class="highlighter-rouge">&amp;pause</code>: Pauses music</li>
+										<li>⏯ <code class="highlighter-rouge">&amp;resume</code>: Resumes paused music</li>
+										<li>⏹ <code class="highlighter-rouge">&amp;stop</code>: Stops music and leaves the voice channel</li>
+									  </ul>
+								</div>
+							</div>
+						</section>
+
+						<!-- Moosic² -->
+						<section id="moosic2" class="wrapper spotlight style3">
+							<div class="inner">
+								<img style="border-radius: 0" class="image" src="https://cdn.discordapp.com/avatars/461423793210916876/dc696d0f590f59cb795d54565da22e20.png?size=512" alt="" /></a>
+								<div class="content">
+									<h2 class="major">Multiple channels</h2>
+									<p>Wanna listen to music in two channels at once? Add Moosic² and you can!<br>(Moosic² uses the prefix <code>%</code> instead of <code>&</code>)</p>
+									<a href="2" target="_blank" rel="noopener" class="special">Add Moosic²</a>
+								</div>
+							</div>
+							</section>
+
+						<!-- Discord -->
+						<section id="discord" class="wrapper alt spotlight style2">
+							<div class="inner">
+								<img style="border-radius: 0" class="image" src="https://discordapp.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg" alt="">
+								<div class="content">
+									<h2 class="major">Join on Discord</h2>
+									<p><img alt="Discord" style="border-radius: 5px" src="https://discordapp.com/api/guilds/461426831103623168/embed.png?style=banner3"></p>
+								</div>
+							</div>
+						</section>
+
+						<!-- AdvaithBot -->
+						<section id="advbot" class="wrapper spotlight style1">
+								<div class="inner">
+									<img class="image" src="https://advaithbot.com/files/logo.png" alt="">
+									<div class="content">
+										<h2 class="major">Looking for a multipurpose bot?</h2>
+										<p>AdvaithBot is a cool multipurpose bot with commands for fun, animals, searching, utility, text, info, moderation, urls, and emoji!</p>
+										<a href="https://advaithbot.com" target="_blank" rel="noopener" class="special">Check out AdvaithBot</a>
+									</div>
+								</div>
+							</section>
+
+				<!-- Footer -->
+					<section id="footer">
+						<div width="900" style="text-align: center">
+							<a href="https://discordbots.org/bot/444633099712856064/vote"><img src="https://discordbots.org/api/widget/444633099712856064.svg" alt="Discord Bot List"></a>
+							<a href="https://bots.ondiscord.xyz/bots/444633099712856064"><img src="https://bots.ondiscord.xyz/bots/444633099712856064/embed?theme=dark&showGuilds=true" alt="Moosic" /></a>
+							<a href="https://discordbotlist.com/bots/444633099712856064/upvote"><img height="150" src="https://discordbotlist.com/bots/444633099712856064/widget" alt="Discord Bot List.com"></a>
+						</div>
+						<div class="inner">
+							<p>Moosic was created by <a href="https://advaith.fun">advaith</a>.</p>
+							<ul class="copyright">
+								<li>&copy; 2018 Advaith Jagathesan</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+							</ul>
+						</div>
+					</section>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
 </html>
