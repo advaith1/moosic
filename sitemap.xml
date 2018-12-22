@@ -1,6 +1,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-<loc>https://moosic.advaith.fun/</loc>
+<loc>https://moosic.co/</loc>
 <image:image>
 <image:loc>https://cdn.discordapp.com/attachments/252296452708106240/444322794612981790/moosic.png</image:loc>
 <image:caption>Moosic</image:caption>
@@ -11,12 +11,12 @@
 </image:image>
 </url>
 <url>
-<loc>https://moosic.advaith.fun/info</loc>
+<loc>https://moosic.co/info</loc>
 </url>
 <url>
-<loc>https://moosic.advaith.fun/invite</loc>
+<loc>https://moosic.co/invite</loc>
 </url>
 <url>
-<loc>https://moosic.advaith.fun/2</loc>
+<loc>https://moosic.co/2</loc>
 </url>
 </urlset>
