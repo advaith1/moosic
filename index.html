@@ -170,15 +170,15 @@
 				<!-- Footer -->
 					<section id="footer">
 						<div width="900" style="text-align: center">
-							<a target="_blank" rel="noopener" href="https://discordbots.org/bot/444633099712856064/vote"><img src="https://discordbots.org/api/widget/444633099712856064.svg" alt="Discord Bot List"></a>
-							<a target="_blank" rel="noopener" href="https://bots.ondiscord.xyz/bots/444633099712856064"><img src="https://bots.ondiscord.xyz/bots/444633099712856064/embed?theme=dark&amp;showGuilds=true" alt="Bots on Discord" /></a>
+							<a target="_blank" rel="noopener" href="https://discordbots.org/bot/moosic/vote"><img src="https://discordbots.org/api/widget/444633099712856064.svg" alt="Discord Bot List"></a>
 							<a target="_blank" rel="noopener" href="https://discordbotlist.com/bots/444633099712856064/upvote"><img height="150" src="https://discordbotlist.com/bots/444633099712856064/widget" alt="Discord Bot List.com"></a>
-							<a target="_blank" rel="noopener" href="https://botsfordiscord.com/bots/398690824721924107/vote"><img height="150" src="https://botsfordiscord.com/api/bot/444633099712856064/widget?theme=dark" alt="Bots For Discord" style="border-radius: 5px"></a>
+							<a target="_blank" rel="noopener" href="https://botsfordiscord.com/bots/444633099712856064/vote"><img height="150" src="https://botsfordiscord.com/api/bot/444633099712856064/widget?theme=dark" alt="Bots For Discord" style="border-radius: 5px"></a>
+							<a target="_blank" rel="noopener" href="https://discordbots.group/bot/moosic"><img height="150" src="https://discordbots.group/api/bot/444633099712856064/widget" alt="Discord Bots Group" style="border-radius: 5px"></a>
 						</div>
 						<div class="inner">
 							<p>Moosic was created by <a href="https://advaith.fun">advaith</a>.</p>
 							<ul class="copyright">
-								<li>&copy; 2018 Advaith Jagathesan</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li>
+								<li>&copy; 2018 - 2019 Advaith Jagathesan</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li>
 							</ul>
 						</div>
 					</section>
@@ -197,9 +197,9 @@
 		<!-- Service Worker -->
 			<script>
 				if('serviceWorker' in navigator) {
-  					navigator.serviceWorker
-           				.register('/sw.js')
-           				.then(function() { console.log("Service Worker Registered"); });
+					window.addEventListener('load', () => {
+						navigator.serviceWorker.register('/sw.js');
+					});
 				}
 			</script>
 
