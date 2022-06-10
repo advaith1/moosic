@@ -100,7 +100,7 @@ input, select, textarea {
 
 	body {
 		background-color: #2e3141;
-		background-image: url("https://discord.com/assets/3e0acf6d69894a5d20deb7c513cd1412.svg");
+		background-image: url("https://cdn.discordapp.com/attachments/252296452708106240/984764755367567360/discovery_bg.svg");
 		background-size: cover;
 		background-attachment: fixed, fixed;
 		background-position: center, center;
@@ -3434,7 +3434,7 @@ input, select, textarea {
 			#banner {
 				padding: 7em 0 8.25em 0 ;
 				background-color: #2e3141;
-				background-image: url("https://discord.com/assets/3e0acf6d69894a5d20deb7c513cd1412.svg");
+				background-image: url("https://cdn.discordapp.com/attachments/252296452708106240/984764755367567360/discovery_bg.svg");
 				background-size: cover;
 				background-position: center, center;
 				margin-bottom: -6.5em;
@@ -3544,7 +3544,7 @@ input, select, textarea {
 		#wrapper > header {
 			padding: 9em 0 6.25em 0 ;
 			background-color: #2e3141;
-			background-image: url("https://discord.com/assets/3e0acf6d69894a5d20deb7c513cd1412.svg");
+			background-image: url("https://cdn.discordapp.com/attachments/252296452708106240/984764755367567360/discovery_bg.svg");
 			background-size: cover;
 			background-position: center, 0% 30%;
 			margin-bottom: -6.5em;
@@ -4038,7 +4038,7 @@ input, select, textarea {
 
 		#footer {
 			background-color: #2e3141;
-			background-image: url("https://discord.com/assets/3e0acf6d69894a5d20deb7c513cd1412.svg");
+			background-image: url("https://cdn.discordapp.com/attachments/252296452708106240/984764755367567360/discovery_bg.svg");
 			background-size: cover;
 			background-position: center, center;
 			margin-top: -6.5em;
